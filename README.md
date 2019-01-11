@@ -1,4 +1,4 @@
-Intelligent Systems 2019
+THE SCHLOBOT 
 ========================
 This is the practical material for the Intelligent Systems course, based on the
 card based strategy game _Schnapsen_.
