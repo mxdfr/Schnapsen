@@ -1,7 +1,6 @@
-THE SCHLOBOT 
+The Schlobot
 ========================
-This is the practical material for the Intelligent Systems course, based on the
-card based strategy game _Schnapsen_.
+This bot that will beat you in the card based strategy game _Schnapsen_.
 
 ## Getting started
 
